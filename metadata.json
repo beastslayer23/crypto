@@ -1,0 +1,16 @@
+{
+  "name": "TridentCoin",
+  "symbol": "TRD",
+  "description": "The official token of the TridentCoin ecosystem.",
+  "image": "https://raw.githubusercontent.com/beastslayer23/crypto/refs/heads/main/TridentCoinLogo.png",
+  "external_url": "https://your-website.com",
+  "properties": {
+    "category": "utility-token",
+    "creators": [
+      {
+        "address": "6gWfuUZnswAwby1iuG1m4by8pN36ouHxYVr2raYm1Zpm",
+        "share": 100
+      }
+    ]
+  }
+}
